@@ -34,7 +34,7 @@ nav a {
   margin: auto;
 }
 
-div #details{
+ #details div {
   display: block;
   float: left;
 }
